@@ -1,16 +1,22 @@
-## Hi there 👋
+<div>
+  <h1 style="display: inline-block" align="center">Hai 👋</h1>
+</div>
 
-<!--
-**arsholeh/arsholeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Sholeh, saya developer pemula. Saat ini saya fokus mempelajari dan mengembangkan aplikasi berbasis web dengan **PHP**, **Javascript** dan **Laravel**.
 
-Here are some ideas to get you started:
+<div>
+  <h2 style="display: inline-block" align="center">Teknologi yang saya pahami dan pelajari</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Languages & Frameworks</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,jquery,bootstrap,nodejs,laravel" />
+</p>
+<p align="center">Databases</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+<p align="center">DevOps & Tools</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
