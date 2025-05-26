@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Abdul from Padang<br><br>- 🔭 I’m working as backend developer<br>- 📚 I'm currently learning laravel</p>
+<p align="left">I'm Abdul from Padang<br>- 📚 I'm currently learning laravel</p>
 
 ###
 
@@ -45,23 +45,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=arsholeh&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=9&order=3" height="205" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arsholeh/arsholeh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arsholeh/arsholeh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arsholeh/arsholeh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
